@@ -1,1 +1,2 @@
-print("My AI/ML journey starts now")
+name=input("enter name:")
+print("welcome",name)
